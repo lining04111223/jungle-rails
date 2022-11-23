@@ -1,8 +1,5 @@
 class Product < ApplicationRecord
-  
-  def stock_empty?
-    self[:quantity] == 0
-  end
+  include ProductHelper
   monetize :price_cents, numericality: true
   mount_uploader :image, ProductImageUploader
 
