@@ -27,5 +27,4 @@ class Admin::CategoriesController < ApplicationController
       :updated_at
     )
   end
-
 end

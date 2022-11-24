@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1. In this application, a client can register/login to their account. They can add plants to their cart and checkout using their credit card. An admin can create categories and products after he enters HTTP auth login.
 
 ## Setup
 
@@ -25,7 +25,27 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Dependencies
 
+- ruby 3.1
 - Rails 6.1 [Rails Guide](http://guides.rubyonrails.org/v6.1/)
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+- Puma 5.0
+- Webpacke
+- Bcrypt
+- Rspec-rails
+- Cypress-rails
+
+# Screenshots
+
+### Home page
+
+![Component Flow](https://github.com/lining04111223/jungle-rails/tree/master/Home_page.png?raw=true)
+
+### Admin_page
+
+![Component Flow](https://github.com/lining04111223/jungle-rails/tree/master/Admin_page.png?raw=true)
+
+### Checkout_page
+
+![Component Flow](https://github.com/lining04111223/jungle-rails/tree/master/Checkout_page.png?raw=true)
