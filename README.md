@@ -40,12 +40,12 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ### Home page
 
-![Component Flow](https://github.com/lining04111223/jungle-rails/tree/master/Home_page.png?raw=true)
+![Component Flow](https://github.com/lining04111223/jungle-rails/blob/master/docs/Home_page.png?raw=true)
 
 ### Admin_page
 
-![Component Flow](https://github.com/lining04111223/jungle-rails/tree/master/Admin_page.png?raw=true)
+![Component Flow](https://github.com/lining04111223/jungle-rails/blob/master/docs/Admin_page.png?raw=true)
 
 ### Checkout_page
 
-![Component Flow](https://github.com/lining04111223/jungle-rails/tree/master/Checkout_page.png?raw=true)
+![Component Flow](https://github.com/lining04111223/jungle-rails/blob/master/docs/Checkout_page.png?raw=true)
